@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Zpitu-Mendigo", "Zpitu-Mendigo\Zpitu-Mendigo.pyproj", "{B7E87A4C-B6FC-49FB-8BED-8DE0E09F6377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E87A4C-B6FC-49FB-8BED-8DE0E09F6377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E87A4C-B6FC-49FB-8BED-8DE0E09F6377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E87A4C-B6FC-49FB-8BED-8DE0E09F6377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E87A4C-B6FC-49FB-8BED-8DE0E09F6377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A851FA2A-A29E-443B-9FCB-61F74826B764}
+	EndGlobalSection
+EndGlobal
